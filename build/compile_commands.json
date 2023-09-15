@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/hello_world.dir/src/hello.cpp.o -c /Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab/src/hello.cpp",
+  "file": "/Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab/src/hello.cpp",
+  "output": "CMakeFiles/hello_world.dir/src/hello.cpp.o"
+},
+{
+  "directory": "/Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/hello_world.dir/src/name.cpp.o -c /Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab/src/name.cpp",
+  "file": "/Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab/src/name.cpp",
+  "output": "CMakeFiles/hello_world.dir/src/name.cpp.o"
+}
+]
