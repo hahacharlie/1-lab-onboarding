@@ -1,3 +1,3 @@
-/Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab/build/CMakeFiles/hello_world.dir
-/Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab/build/CMakeFiles/edit_cache.dir
-/Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab/build/CMakeFiles/rebuild_cache.dir
+/Users/charliesmac/nyu_processor_design/week-one-lab/build/CMakeFiles/hello_world.dir
+/Users/charliesmac/nyu_processor_design/week-one-lab/build/CMakeFiles/edit_cache.dir
+/Users/charliesmac/nyu_processor_design/week-one-lab/build/CMakeFiles/rebuild_cache.dir

@@ -49,14 +49,14 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk"
+					"fragment" : "-g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk"
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 2,
-					"path" : "/Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab/include"
+					"path" : "/Users/charliesmac/nyu_processor_design/week-one-lab/include"
 				}
 			],
 			"language" : "CXX",

@@ -1,4 +1,4 @@
-# Install script for directory: /Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab
+# Install script for directory: /Users/charliesmac/nyu_processor_design/week-one-lab
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/charliesmac/nyu_processor_design/week-one-lab/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

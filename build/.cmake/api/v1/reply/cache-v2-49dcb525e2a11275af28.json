@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab/build"
+			"value" : "/Users/charliesmac/nyu_processor_design/week-one-lab/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab/build/CMakeFiles/pkgRedirects"
+			"value" : "/Users/charliesmac/nyu_processor_design/week-one-lab/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -535,7 +535,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab"
+			"value" : "/Users/charliesmac/nyu_processor_design/week-one-lab"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -771,7 +771,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk"
+			"value" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk"
 		},
 		{
 			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
@@ -1187,7 +1187,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab/build"
+			"value" : "/Users/charliesmac/nyu_processor_design/week-one-lab/build"
 		},
 		{
 			"name" : "week-one-lab_IS_TOP_LEVEL",
@@ -1211,7 +1211,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab"
+			"value" : "/Users/charliesmac/nyu_processor_design/week-one-lab"
 		}
 	],
 	"kind" : "cache",

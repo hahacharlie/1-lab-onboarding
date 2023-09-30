@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "hello_world::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-hello_world-Debug-ac22f9099942cd7af089.json",
+					"jsonFile" : "target-hello_world-Debug-45ea1838c5965d909750.json",
 					"name" : "hello_world",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab/build",
-		"source" : "/Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab"
+		"build" : "/Users/charliesmac/nyu_processor_design/week-one-lab/build",
+		"source" : "/Users/charliesmac/nyu_processor_design/week-one-lab"
 	},
 	"version" : 
 	{

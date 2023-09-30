@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /opt/homebrew/Cellar/cmake/3.27.4/bin/cmake --regenerate-during-build -S/Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab -B/Users/charliesmac/Documents/NYU_Fall_2023/nyu_processor_design/week-one-lab/build
+  command = /opt/homebrew/Cellar/cmake/3.27.4/bin/cmake --regenerate-during-build -S/Users/charliesmac/nyu_processor_design/week-one-lab -B/Users/charliesmac/nyu_processor_design/week-one-lab/build
   description = Re-running CMake...
   generator = 1
 
